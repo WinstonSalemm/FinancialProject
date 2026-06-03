@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Financial.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Financial.Application": "1.0.0",
+          "Financial.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Financial.Infrastructure.dll": {}
+        }
+      },
+      "Financial.Application/1.0.0": {
+        "dependencies": {
+          "Financial.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Financial.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Financial.Domain/1.0.0": {
+        "runtime": {
+          "Financial.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Financial.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Financial.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Financial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
