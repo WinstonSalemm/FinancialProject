@@ -16,3 +16,5 @@ C:\newLife\programmForRahat\Financial.Infrastructure\obj\Debug\net9.0\Financial.
 C:\newLife\programmForRahat\Financial.Infrastructure\obj\Debug\net9.0\refint\Financial.Infrastructure.dll
 C:\newLife\programmForRahat\Financial.Infrastructure\obj\Debug\net9.0\Financial.Infrastructure.pdb
 C:\newLife\programmForRahat\Financial.Infrastructure\obj\Debug\net9.0\ref\Financial.Infrastructure.dll
+C:\newLife\programmForRahat\Financial.Infrastructure\bin\Debug\net9.0\Financial.Infrastructure.runtimeconfig.json
+C:\newLife\programmForRahat\Financial.Infrastructure\obj\Debug\net9.0\Financial.Infrastructure.genruntimeconfig.cache

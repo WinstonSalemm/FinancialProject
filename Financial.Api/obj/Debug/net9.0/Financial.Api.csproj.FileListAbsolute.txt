@@ -37,3 +37,17 @@ C:\newLife\programmForRahat\Financial.Api\obj\Debug\net9.0\refint\Financial.Api.
 C:\newLife\programmForRahat\Financial.Api\obj\Debug\net9.0\Financial.Api.pdb
 C:\newLife\programmForRahat\Financial.Api\obj\Debug\net9.0\Financial.Api.genruntimeconfig.cache
 C:\newLife\programmForRahat\Financial.Api\obj\Debug\net9.0\ref\Financial.Api.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Npgsql.dll
+C:\newLife\programmForRahat\Financial.Api\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

@@ -47,6 +47,4 @@ public class ApplicationDbContext : DbContext
     }
 }
 
-internal class CalculationResult
-{
-}
+// Use the CalculationResult type from the domain project. Removed local duplicate type.

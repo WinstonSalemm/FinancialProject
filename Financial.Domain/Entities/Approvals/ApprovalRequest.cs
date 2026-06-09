@@ -6,6 +6,7 @@ public class ApprovalRequest
     public Guid ApproverUserId { get; set; }
     public ApprovalStatus Status { get; set; }
     public string? Comment { get; set; }
+    public Organization Organization { get; set; } = null!;
     public DateTime CreatedAt { get; set; }
     public DateTime? ProcessedAt { get; set; }
     public CalculationVersion CalculationVersion { get; set; } = null!;

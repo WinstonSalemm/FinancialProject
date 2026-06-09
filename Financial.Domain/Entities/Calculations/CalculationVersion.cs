@@ -16,10 +16,12 @@ public class CalculationVersion
     public DateTime CreatedAt { get; set; }
     public DateTime? UpdatedAt { get; set; }
     public Calculation Calculation { get; set; } = null!;
+    public Guid OrganizationId { get; set; }
+    public Organization Organization { get; set; } = null!;
     public User CreatedByUser { get; set; } = null!;
     public ICollection<CalculationVersionItem> Items { get; set; }
         = new List<CalculationVersionItem>();
     public ICollection<ApprovalRequest> ApprovalRequests { get; set; }
         = new List<ApprovalRequest>();
-    public CalculationVersionResult? Result { get; set; }
+    public CalculationResult? Result { get; set; }
 }

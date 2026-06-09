@@ -7,6 +7,9 @@ public class Calculation
     public DateTime CreatedAt { get; set; }
     public DateTime? UpdatedAt { get; set; }
     public Lead Lead { get; set; } = null!;
+    public Guid OrganizationId { get; set; }
+
+    public Organization Organization { get; set; } = null!;
     public CalculationVersion CurrentVersion { get; set; } = null!;
     public ICollection<CalculationVersion> Versions { get; set; }
         = new List<CalculationVersion>();

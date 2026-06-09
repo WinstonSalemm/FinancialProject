@@ -1,7 +1,6 @@
 public enum DealStatus
 {
-    InProgress,
-    ClosedWon,
-    ClosedLost
-    
+    Active,
+    Completed,
+    Cancelled
 }
