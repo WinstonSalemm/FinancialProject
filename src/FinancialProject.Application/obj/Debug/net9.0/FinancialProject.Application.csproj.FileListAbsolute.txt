@@ -1,0 +1,16 @@
+C:\newLife\programmForRahat\src\FinancialProject.Application\bin\Debug\net9.0\FinancialProject.Application.deps.json
+C:\newLife\programmForRahat\src\FinancialProject.Application\bin\Debug\net9.0\FinancialProject.Application.dll
+C:\newLife\programmForRahat\src\FinancialProject.Application\bin\Debug\net9.0\FinancialProject.Application.pdb
+C:\newLife\programmForRahat\src\FinancialProject.Application\bin\Debug\net9.0\FinancialProject.Domain.dll
+C:\newLife\programmForRahat\src\FinancialProject.Application\bin\Debug\net9.0\FinancialProject.Domain.pdb
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.csproj.AssemblyReference.cache
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.AssemblyInfoInputs.cache
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.AssemblyInfo.cs
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.csproj.CoreCompileInputs.cache
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.sourcelink.json
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\Financia.882E1388.Up2Date
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.dll
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\refint\FinancialProject.Application.dll
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\FinancialProject.Application.pdb
+C:\newLife\programmForRahat\src\FinancialProject.Application\obj\Debug\net9.0\ref\FinancialProject.Application.dll

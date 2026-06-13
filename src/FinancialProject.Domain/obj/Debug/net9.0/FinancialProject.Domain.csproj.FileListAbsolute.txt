@@ -1,0 +1,12 @@
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\FinancialProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\FinancialProject.Domain.AssemblyInfoInputs.cache
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\FinancialProject.Domain.AssemblyInfo.cs
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\FinancialProject.Domain.csproj.CoreCompileInputs.cache
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\FinancialProject.Domain.sourcelink.json
+C:\newLife\programmForRahat\src\FinancialProject.Domain\bin\Debug\net9.0\FinancialProject.Domain.deps.json
+C:\newLife\programmForRahat\src\FinancialProject.Domain\bin\Debug\net9.0\FinancialProject.Domain.dll
+C:\newLife\programmForRahat\src\FinancialProject.Domain\bin\Debug\net9.0\FinancialProject.Domain.pdb
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\FinancialProject.Domain.dll
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\refint\FinancialProject.Domain.dll
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\FinancialProject.Domain.pdb
+C:\newLife\programmForRahat\src\FinancialProject.Domain\obj\Debug\net9.0\ref\FinancialProject.Domain.dll
